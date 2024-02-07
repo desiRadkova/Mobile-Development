@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExamPreparation</string>
+    <string name="task_manager">Task Manager</string>
+    <string name="current_taskes">Current Taskes</string>
+    <string name="enter_task_index">Enter task index</string>
+    <string name="confirm">Confirm</string>
+    <string name="create_new_task_title">Create New Task Title</string>
+    <string name="task_name">Task Name</string>
+    <string name="enter_task_name">Enter Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="save_task">Save Task</string>
+    <string name="enter_task_description">Enter Task Description</string>
+    <string name="review_task">Review Task</string>
+    <string name="complete_task">Complete Task</string>
+</resources>

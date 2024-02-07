@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyJournal</string>
+    <string name="enter_journal">Enter Journal</string>
+    <string name="journal">Journal</string>
+    <string name="enter_journal_id">Enter Journal ID</string>
+    <string name="load_jouurnal">Load Jouurnal</string>
+</resources>
